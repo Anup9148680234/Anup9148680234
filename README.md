@@ -15,38 +15,6 @@ Focused on modern frontend systems, AI integration, and production-grade e-comme
 - 🧪 Decreased post-release defects by **30%** via cross-platform QA testing across React Native builds and Android Studio emulators.
 
 
-
-## 🛠 Tech Stack
-
-### Frontend
-- React.js
-- Next.js 
-- Javascript / Typescript
-- Tailwind CSS
-- Shopify Storefront API
-- GraphQL
-
-### Backend & APIs
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-- AI SDK integrations
-
-### Databases
-- MySQL
-- MongoDB
-- SQL Server
-- DBMS fundamentals
-
-### Tools
-- Git
-- Cypress
-- Webpack
-- Babel
-- VS Code
-
-
 ## 🧩 Core Strengths
 
 - Scalable frontend architecture
